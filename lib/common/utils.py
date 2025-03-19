@@ -2,8 +2,7 @@
 # -*- encoding: utf-8 -*-
 
 import os,random,locale,time,shutil
-from lib.common import readConfig
-from lib.common.cmdline import CommandLines
+# from lib.common.cmdline import CommandLines
 
 
 class Utils():

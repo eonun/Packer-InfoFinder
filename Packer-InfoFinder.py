@@ -6,7 +6,6 @@ from lib.Controller import Project
 from lib.TestProxy import testProxy
 from lib.common.banner import RandomBanner
 from lib.common.cmdline import CommandLines
-from lib.common.readConfig import ReadConfig
 
 
 

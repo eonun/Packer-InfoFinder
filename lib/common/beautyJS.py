@@ -3,7 +3,6 @@
 
 import re,os,re
 from urllib.parse import urlparse
-from lib.common import readConfig
 from lib.common.utils import Utils
 from lib.Database import DatabaseType
 from lib.common.cmdline import CommandLines
